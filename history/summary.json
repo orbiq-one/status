@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
+    "name": "Orbiq.one",
+    "url": "https://www.orbiq.one",
+    "icon": "https://icons.duckduckgo.com/ip3/www.orbiq.one.ico",
+    "slug": "orbiq-one",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 92,
-    "timeWeek": 92,
-    "timeMonth": 92,
-    "timeYear": 92,
+    "time": 844,
+    "timeDay": 844,
+    "timeWeek": 844,
+    "timeMonth": 844,
+    "timeYear": 844,
     "dailyMinutesDown": {}
   }
 ]
