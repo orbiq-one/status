@@ -7,6 +7,8 @@ sites:
     url: https://www.orbiq.one
   - name: Mailserver
     url: https://mail.orbiq.services
+  - name: Gitea
+    url: https://git.orbiq.services
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
