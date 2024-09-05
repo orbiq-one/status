@@ -1,10 +1,10 @@
 # Change these first
-owner: cheetahbyte # Your GitHub organization or username, where this repository lives
+owner: orbiq-one # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Orbiq.one
+    url: https://www.orbiq.one
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
